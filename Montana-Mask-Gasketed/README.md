@@ -12,4 +12,4 @@ Temp is material dependent, we usually print with 200C nozzle and 50C bed.
 
 Make sure you print both the mask and the filter.
 
-Plese do NOT change scale.  Thank you for your help and contact samdurham23@gmail.com or our discord https://discord.gg/vdzRzh if you need any assistance.  We generally drop off to Punahou nightly.  We will organize dropoffs and supplies on discord.  We can help supply you with filament if you need.  
+Plese do NOT change scale.  Thank you for your help and contact samdurham23@gmail.com or our discord https://discord.gg/vdzRzh if you need any assistance.  We generally drop off to Punahou nightly.  We will organize dropoffs and supplies on discord.  We can help supply you with filament if you need.  We prefer white but will take any color besides black (too similar to plague mask).
