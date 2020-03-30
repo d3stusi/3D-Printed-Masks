@@ -8,6 +8,6 @@ Top/Bottom Layers: 3
 
 Temp is material dependent, we usually print with 200C nozzle and 50C bed.
 
-Make sure you print both the mask rivets.  Three rivets are needed per headband.  If you want to print a few extras that would be great as they sometimes break swapping plastic shields.  Can also print two sets of headpiece/bands nested inside of each other. Plese do NOT change scale.  Thank you for your help and contact samdurham23@gmail.com or our discord https://discord.gg/vdzRzh if you need any assistance.
+Make sure you print both the mask rivets.  Three rivets are needed per headband.  If you want to print a few extras that would be great as they sometimes break swapping plastic shields.  Can also print two sets of headpiece/bands nested inside of each other. Plese do NOT change scale.  Thank you for your help and contact samdurham23@gmail.com or our discord https://discord.gg/vdzRzh if you need any assistance.  We generally drop off to Punahou nightly.  We will organize dropoffs and supplies on discord.
 
 ![Image description](https://i.imgur.com/JlaqWbB.jpg)
