@@ -8,5 +8,6 @@ Top/Bottom Layers: 3
 
 Temp is material dependent, we usually print with 200C nozzle and 50C bed.
 
-Make sure you print both the mask rivets.  Rivets are 25 pcs with 3pcs per headband.  Can also print two sets of headpiece/bands nested inside of each other.
+Make sure you print both the mask rivets.  Rivets are 25 pcs with 3pcs per headband.  Can also print two sets of headpiece/bands nested inside of each other. Plese do NOT change scale.  Thank you for your help and contact samdurham23@gmail.com or our discord https://discord.gg/vdzRzh if you need any assistance.
+
 ![Image description](https://i.imgur.com/JlaqWbB.jpg)
